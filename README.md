@@ -1,0 +1,2 @@
+# rand
+gives random number
